@@ -8,3 +8,9 @@ const b=()=>{
     return '5'
 
 }
+const e=()=>{
+
+    alert("eeeeeeeeeee😊👀✔")
+
+
+}
