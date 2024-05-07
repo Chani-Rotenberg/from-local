@@ -11,3 +11,6 @@ const b=()=>{
 const c=()=>{
     console.log("cccc");
 }
+const d=()=>{
+    confirm("are you shure??")
+}
