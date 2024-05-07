@@ -8,9 +8,15 @@ const b=()=>{
     return '5'
 
 }
+
 const c=()=>{
     console.log("cccc");
 }
+
 const d=()=>{
     confirm("are you shure??")
+}
+
+const e=()=>{
+    alert("eeeeeeeeeee😊👀✔")
 }
